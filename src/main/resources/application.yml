@@ -1,0 +1,2 @@
+spring.mvc.pathmatch.matching-strategy: ant_path_matcher
+logging.pattern.console: "%d %-5level %logger{30}:%line - %msg%n"
